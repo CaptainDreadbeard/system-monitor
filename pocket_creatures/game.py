@@ -2,9 +2,9 @@
 
 import random
 import time
-from ascii_art import get_art
-from save_manager import save_pet
-from pet import Pet
+from pocket_creatures.ascii_art import get_art
+from pocket_creatures.save_manager import save_pet
+from pocket_creatures.pet import Pet
 
 COMMANDS = ["feed", "play", "sleep", "clean", "stats", "help", "quit"]
 

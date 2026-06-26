@@ -1,8 +1,7 @@
 # save_manager.py
 import json
 import os
-from pet import Pet
-import pet
+from pocket_creatures.pet import Pet
 
 SAVE_FILE = "save.json"
 

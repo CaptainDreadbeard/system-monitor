@@ -1,8 +1,8 @@
 # main.py
 
-from save_manager import load_pet, save_pet
-from game import Game
-from pet import Pet
+from pocket_creatures.save_manager import load_pet, save_pet
+from pocket_creatures.game import Game
+from pocket_creatures.pet import Pet
 
 def main():
     print("🐾 Welcome to Pocket Creatures")
